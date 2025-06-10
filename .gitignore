@@ -1,0 +1,47 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# Coverage reports
+.coverage
+*.coveragerc
+coverage.xml
+nosetests.xml
+test_*.xml
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# VSCode settings
+.vscode/settings.json
