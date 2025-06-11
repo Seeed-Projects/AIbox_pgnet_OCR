@@ -14,7 +14,7 @@ This project deploys Baidu's [PaddleOCR](https://github.com/PaddlePaddle/PaddleO
 ```bash
 git clone https://github.com/Seeed-Projects/AIbox_pgnet_OCR.git
 cd AIbox_pgnet_OCR
-python -m venv .env --system-site-packages
+source .env/bin/activate
 pip install -r requirements.txt
 ```
 
