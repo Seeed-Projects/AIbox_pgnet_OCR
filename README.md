@@ -27,4 +27,4 @@ python inference_pgnet.py pgnet_640.hef --camera 0
 
 ## Result
 
-![./resource/result.png]
+![result][./resource/result.png]
